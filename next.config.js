@@ -1,6 +1,5 @@
 module.exports = {
   reactStrictMode: true,
-  swcMinify: false,  
   images: {
     domains: ["dryoureka.com", "127.0.0.1"],
   },
